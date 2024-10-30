@@ -18,6 +18,7 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
     npm install
 
 **Instalar SCSS**
+
     npm add -D sass-embedded
 
 Ejecute 
